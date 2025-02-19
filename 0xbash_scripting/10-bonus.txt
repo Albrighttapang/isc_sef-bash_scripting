@@ -1,0 +1,3 @@
+bash script.sh
+./script.sh is used to run a bash program.
+A shell-built-in is a command called from a shell, that is executed directly in the shell itself meanwhile with an external command, the shell would load and execute
